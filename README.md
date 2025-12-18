@@ -1,2 +1,6 @@
 # dsa-practice
-DSA practice repo
+DSA practice rep
+
+This repository contains my Data Structures and Algorithms practice.
+
+Languages: C++ (primary)
